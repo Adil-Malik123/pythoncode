@@ -1,0 +1,8 @@
+adil,adil@gmail.com,12345678
+dil,adil@gmail.com,12345678
+Adil,adilmalik@gmail.com,12345678
+wae,ad@gmail.com,12345678
+adil@gmaicom,adil@gmail.com,12345678
+sir,admin@gmail.com,12345678
+new,new@gmail.com,12345678,Student
+ali@gmail.com,ali@gmail.com,12345678,student

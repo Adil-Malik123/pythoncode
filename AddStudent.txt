@@ -1,0 +1,7 @@
+adik,248,13,adil@gmail.com,1234567,M,2008,sdfghjk
+malik Adil,248,Pf,adil@gmail.com,123456789,Male,2006,multan
+adil,248,13,asdd@gmail.com,12345678,m,234,erfyhjkmfl
+Adil,248,13,adi@gmail.com,123456789,ale,2008,Multan
+as,12,13,as@gmail.com,12345678,m,12345,sadfghj
+tuy,4,788,8,iui,87'h,,i
+adi,248,13,ad,12345678,m,2006,qwijqw
